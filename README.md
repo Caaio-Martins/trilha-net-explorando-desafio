@@ -22,13 +22,13 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 
 ## Implemtações 25/09/2024
-1.CadastrarHospedes:
+1. CadastrarHospedes:
     Verifica se o número de hóspedes não ultrapassa a capacidade da suíte.
     Se ultrapassar, uma exceção é lançada.
 
-2.ObterQuantidadeHospedes:
+2. ObterQuantidadeHospedes:
     Retorna a quantidade de hóspedes cadastrados.
 
-3.CalcularValorDiaria:
+3. CalcularValorDiaria:
     Calcula o valor total da diária com base no número de dias e no valor da diária da suíte.
     Se o número de dias for maior ou igual a 10, um desconto de 10% é aplicado no valor total.
